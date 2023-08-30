@@ -1,0 +1,15 @@
+.container{
+    max-width: 90rem;
+    margin: auto;
+    background-color: aqua;
+}
+.content{
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    justify-content: center;
+}
+.card{
+    background-color: beige;
+    border-radius: 2rem;
+}
